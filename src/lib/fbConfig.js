@@ -1,5 +1,5 @@
 export const firebaseConfig = {
-    apiKey: "AIzaSyBDknp_nIMNms7DJAtxVP_hE4X07g0dWhg",
+    apiKey: "AIzaSyBffxC0iiinIfQr80wzr9Kz8JuDLY31Xpc",
     authDomain: "svelte-todoz.firebaseapp.com",
     projectId: "svelte-todoz",
     storageBucket: "svelte-todoz.appspot.com",
